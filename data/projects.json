@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": 1,
+    "title": "AI Project",
+    "description": "Open-source AI tool",
+    "image": "ai-project.jpg",
+    "tags": ["python", "pytorch"]
+  },
+  {
+    "id": 2,
+    "title": "Web Scraper",
+    "description": "Custom scraper for structured data",
+    "image": "scraper.jpg",
+    "tags": ["javascript", "nodejs"]
+  }
+]
